@@ -1,0 +1,19 @@
+name: R checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  portable-workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: release
+          use-public-rspm: true
+      - name: Install demo dependency
+        run: Rscript -e 'install.packages("fixest", repos="https://cloud.r-project.org")'
+      - name: Panel integrity checks
+        run: Rscript tests/test_panel.R
+      - name: Synthetic model smoke test
+        run: Rscript scripts/run_demo.R

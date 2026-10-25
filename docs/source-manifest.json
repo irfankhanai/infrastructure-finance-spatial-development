@@ -1,0 +1,80 @@
+[
+  {
+    "file": "upstream/code/build/create_instruments.do",
+    "source": "R and stat project upwork/R_project/code/build/create_instruments.do",
+    "origin": "Inherited replication code; authors attribution in upstream/LICENSE.txt",
+    "sha256": "521b5b2dfe26bd683f12a0ba9b575e293e6d5a0a81aa375cd0428014ae7ff58f"
+  },
+  {
+    "file": "upstream/code/build/build_adm1_merges.do",
+    "source": "R and stat project upwork/R_project/code/build/build_adm1_merges.do",
+    "origin": "Inherited replication code; authors attribution in upstream/LICENSE.txt",
+    "sha256": "06b72dce339fa72edd7b96dc5f97dd2889c0a6a4998c26c8c1cc4508630d3b0a"
+  },
+  {
+    "file": "upstream/code/build/build_adm1_prep.do",
+    "source": "R and stat project upwork/R_project/code/build/build_adm1_prep.do",
+    "origin": "Inherited replication code; authors attribution in upstream/LICENSE.txt",
+    "sha256": "07956ebd543c60e8be2656d760841892a7ecb84305f587bfa8988c273c4d851f"
+  },
+  {
+    "file": "upstream/code/build/prep_china.R",
+    "source": "R and stat project upwork/R_project/code/build/prep_china.R",
+    "origin": "Inherited replication code; authors attribution in upstream/LICENSE.txt",
+    "sha256": "2403cb9d0acfc39e9dd9e5a8daef317509c0ecd142038b685a43f6509e04dda4"
+  },
+  {
+    "file": "upstream/code/build/prep_wb.R",
+    "source": "R and stat project upwork/R_project/code/build/prep_wb.R",
+    "origin": "Inherited replication code; authors attribution in upstream/LICENSE.txt",
+    "sha256": "0a591611e99bf90d2b79785a0f44c706eea4392990a8dec143f600c6249f6c9d"
+  },
+  {
+    "file": "upstream/code/analyze/Table_1.do",
+    "source": "R and stat project upwork/R_project/code/analyze/Table_1.do",
+    "origin": "Inherited replication code",
+    "sha256": "69a4c33ea7ed4fefc8907146a4963e8ebb8992859e968f40c787394758e1ca7a"
+  },
+  {
+    "file": "upstream/LICENSE.txt",
+    "source": "R and stat project upwork/R_project/LICENSE.txt",
+    "origin": "Original license",
+    "sha256": "81c72f9f58ac268a8e03b1c42c4535e43f12c6769be5ffcffeb5c1b6b71fb02a"
+  },
+  {
+    "file": "upstream/README-original.md",
+    "source": "R and stat project upwork/R_project/Readme.md",
+    "origin": "Original documentation",
+    "sha256": "14db66cedcb28e9a8b0c3b6551405813eaa62a88cbe0baee89f1dc4c1a08d150"
+  },
+  {
+    "file": "legacy/R/build_panel_v04.R",
+    "source": "R and stat project upwork/R_project/#2 nov 2025/R build_V04.R",
+    "origin": "Historical working script; unmodified; not validated as a reproduction",
+    "sha256": "cb75f8841b63306021d50414e4aedefea4331be5c68fa01a1c2d948e74de10d1"
+  },
+  {
+    "file": "legacy/R/wb_iv_experiments.R",
+    "source": "R and stat project upwork/R_project/#2 nov 2025/Table_1_Codex.R",
+    "origin": "Historical working script; unmodified; not validated as a reproduction",
+    "sha256": "3a60883d7e3cca065873d33202e15ec1756d020735e1cff2bbeabec5878af48d"
+  },
+  {
+    "file": "legacy/R/prepare_wb_locations.R",
+    "source": "R and stat project upwork/R_project/code/build/build_new_wb_projects.R",
+    "origin": "Historical working script; unmodified; not validated as a reproduction",
+    "sha256": "4349640a584c056066c7c4db8ebeed6aa776ff4033f8d3160d93edad54663ab3"
+  },
+  {
+    "file": "legacy/R/compare_treatment_lags.R",
+    "source": "R and stat project upwork/Run_Regresson_Final_and_comparison.R",
+    "origin": "Historical working script",
+    "sha256": "8c4533c67fb44e99f49b76269fcc6234bbf5cba4332de8f18da01bffcc6bab59"
+  },
+  {
+    "file": "results/archived/wb_models_v04.csv",
+    "source": "R and stat project upwork/R_project/output/tables/V04.csv",
+    "origin": "Historical output; not regenerated",
+    "sha256": "309dcfcc2f94c5fc1f42f919fee37ae2b6e250d00dafc8833832c68ba94afc28"
+  }
+]

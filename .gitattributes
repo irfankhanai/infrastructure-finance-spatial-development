@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Preserve archived source bytes and provenance hashes exactly.
+legacy/** -text -whitespace
+upstream/** -text -whitespace
+results/archived/** -text -whitespace
