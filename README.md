@@ -8,7 +8,7 @@
 
 **Research focus:** Where is development infrastructure located, and how is investment associated with the spatial distribution of economic activity?
 
-This repository curates an applied research project extending the workflow of *Connective Financing: Chinese Infrastructure Projects and the Diffusion of Economic Activity in Developing Countries*. It combines historical R extensions, selected upstream Stata reference code, an audit of replication differences, and a small, portable R modeling workflow.
+This repository curates an applied research project extending the workflow of *Connective Financing: Chinese Infrastructure Projects and the Diffusion of Economic Activity in Developing Countries*. It combines historical R extensions, selected upstream Stata reference code, an audit of replication differences, and a portable R modeling workflow.
 
 The contribution is research implementation: spatial data harmonization, panel construction, model translation, specification comparison, and reproducibility diagnostics. The published paper and its identification strategy belong to the original authors. This is an independent portfolio and research-software release, not an official replication package.
 
