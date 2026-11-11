@@ -34,7 +34,7 @@ The historical scripts document work already present in the supplied project. Th
 
 ## Quick start
 
-Install R (4.3 or later recommended), then run from the repository root:
+Install R (4.3 or later), then run from the repository root:
 
 ```r
 install.packages(c("fixest", "haven"), repos = "https://cloud.r-project.org")
